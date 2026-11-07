@@ -1,7 +1,4 @@
 
-
-A step-by-step guide on how to configure Eclipse IDE and a remote Linux board (such as a Raspberry Pi) for remote C++ debugging via SSH and GDBServer, featuring environment setup, configuration screenshots, and a practical troubleshooting section.
-
 # 🐧 Embedded Linux: C++ Remote Debugging with Eclipse IDE
 
 Powerful new LLM models undoubtedly accelerate the development lifecycle. However, there is one capability they still cannot replace and which remains of utmost importance to any developer: **debugging**.
